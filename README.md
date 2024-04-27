@@ -1,7 +1,3 @@
-Here’s a structured `README.md` for your Streamlit app that provides an overview of your project and its scalability. I've included a sample SQL query for analyzing rider and driver data within specified zones, which can help with the dynamic pricing of cab fares.
-
----
-
 ## Dynamic Cab Fair Pricing Strategy
 
 ### Project Overview
