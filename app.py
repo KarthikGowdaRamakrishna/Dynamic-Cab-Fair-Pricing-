@@ -18,7 +18,7 @@ def predict_price(number_of_riders, number_of_drivers, vehicle_type, expected_ri
     return model.predict(input_data)[0]
 
 # Streamlit UI
-st.title('Vehicle Rental Price Prediction')
+st.title('Dynamic Cab Fair Prediction')
 
 number_of_riders = st.number_input('Number of Riders', min_value=1, value=1)
 number_of_drivers = st.number_input('Number of Drivers', min_value=1, value=1)
